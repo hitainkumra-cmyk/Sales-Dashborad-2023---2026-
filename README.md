@@ -163,4 +163,6 @@ KPI Development
 Power BI Interactive Reporting
 
 ### screenshots / Demos
-show what dashborad looks like 
+
+show what dashborad looks like - https://github.com/hitainkumra-cmyk/Sales-Dashborad-2023---2026-/blob/main/Sales%20dashborad%20(%202023%20-%202026).png
+Example - https://github.com/hitainkumra-cmyk/Sales-Dashborad-2023---2026-/blob/main/Sales%20dashborad%20(%202023%20-%202026).png
